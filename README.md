@@ -2,13 +2,14 @@
 
 ![Logo](https://images2.imgbox.com/e2/fa/CfbD0Ods_o.png)
 
-A simple application for your organization to better explain your feelings about your colleagues. In this application you could anonymously create thanks or feedbacks for others to provide a healthy circle in the organization.
+A simple application for your organization to better explain your feelings about your colleagues. In this application you could anonymously create thanks or feedbacks for others to provide a healthy circle in the organization. This action is somehow an implementation of Kudos (praise and honour received for an achievement).
 
 ## Requirements
 
 1. [Docker and Docker Compose](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHjIHEs8_4AhVQuqQKHS94D94QFnoECBEQAQ&url=https%3A%2F%2Fwww.docker.com%2F&usg=AOvVaw3p9e1qPvdfjCrUwPYAhUlS)
 2. [MySQL database](https://www.mysql.com/) (+8.0 has been tested)
-3. Open ports: 80 (Frontend) and 8080 (Backend)
+3. [Maven build tool](https://maven.apache.org/)
+4. Open ports: 80 (Frontend) and 8080 (Backend)
 
 ## Installation
 
