@@ -1,0 +1,32 @@
+.header {
+  width: 100%;
+}
+
+.updateReadStatus {
+  color: white;
+}
+
+.updateReadStatusWrapper {
+  cursor: pointer;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  padding: 0.2rem;
+}
+
+.unRead {
+  border: 1px solid #069bd5;
+  border-radius: 0.2rem;
+  background: #069bd5;
+  transition: all 0.3s;
+}
+
+.read {
+  border-radius: 0.2rem;
+  border: 1px solid rgb(180, 180, 180);
+  background: rgb(180, 180, 180);
+}
+
+.unRead:hover {
+  background: #08698f;
+  border-color: #08698f;
+}

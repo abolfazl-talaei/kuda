@@ -1,0 +1,17 @@
+.warning {
+  background-color: rgba(255, 198, 92, 0.89);
+  font-size: 1.2rem;
+  font-family: 'Sahel';
+}
+
+.danger {
+  background-color: rgba(255, 195, 184, 0.89);
+  font-size: 1.2rem;
+  font-family: 'Sahel';
+}
+
+.info {
+  background-color: rgba(134, 255, 198, 0.329);
+  font-size: 1.2rem;
+  font-family: 'Sahel';
+}

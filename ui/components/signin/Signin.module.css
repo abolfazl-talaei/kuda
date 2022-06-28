@@ -1,0 +1,72 @@
+@media (max-width: 600px) {
+  .container {
+    width: 100vw;
+    margin-top: 10%;
+  }
+  .kudaWelcomeStatus {
+    display: none;
+    font-size: 100rem;
+  }
+}
+
+.kudaWelcomeStatus {
+  font-family: 'Sahel';
+  font-weight: bold;
+  color: rgb(179, 179, 179);
+  font-size: 1.5rem;
+}
+
+@media (min-width: 600px) {
+  .container {
+    width: 50vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+  }
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.loginSubmit {
+  text-align: center;
+}
+
+.languageButton {
+  margin: 0.3rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 5rem;
+}
+
+.submit {
+  font-family: 'Sahel';
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.signInUpSwitch {
+  margin-top: 1rem;
+  font-family: 'Sahel';
+}
+
+.languageButton {
+  font-family: 'Sahel';
+}
+
+.languageButtonWrapper {
+  border-radius: 0.3rem;
+  padding: 0.4rem;
+  margin: 0.2rem;
+  border: 1px solid rgb(199, 199, 199);
+  font-family: 'Sahel';
+}
+
+.environmentWrapper {
+  color: gray;
+}

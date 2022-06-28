@@ -1,0 +1,16 @@
+.title {
+  margin: 0.4rem;
+  font-family: 'Sahel';
+}
+
+.hint {
+  color: rgb(161, 161, 161);
+}
+
+.container {
+  margin-top: 1rem;
+}
+
+.input {
+  font-family: 'Sahel';
+}

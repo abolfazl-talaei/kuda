@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ActionArea /> 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "textAlign": "right",
+    }
+  }
+>
+  <div
+    className="card-body"
+  >
+    <div
+      className="jumbotron"
+      style={
+        Object {
+          "textAlign": "right",
+        }
+      }
+    >
+      <h1>
+        test
+      </h1>
+      <p>
+        test
+      </p>
+      <p>
+        <button
+          className="btn btn-primary"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          test
+        </button>
+        <a
+          className="btn btn-primary"
+          href="newkuda"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+        >
+          test
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+`;

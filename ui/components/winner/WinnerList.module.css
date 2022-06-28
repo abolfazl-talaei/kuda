@@ -1,0 +1,16 @@
+.winnerBody {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Sahel';
+}
+
+.winnerHeader {
+  font-family: 'Sahel';
+}
+
+.user {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  color: gray;
+}

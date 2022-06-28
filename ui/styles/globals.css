@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Sahel';
+  src: url('/font/sahel.ttf') format('truetype');
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Sahel', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.footer {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  background: rgb(233, 233, 233);
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 0 !important;
+}
+
+.ltr {
+  direction: ltr;
+}
+
+.center {
+  text-align: center;
+}
+
+.ml-1 {
+  margin-left: 0.5rem;
+}
+
+.mr-1 {
+  margin-right: 0.5rem;
+}
+
+.navbar-toggler {
+  margin: 1rem;
+}
+
+.nav-link {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.flex-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.w-6 {
+  width: 6rem;
+}

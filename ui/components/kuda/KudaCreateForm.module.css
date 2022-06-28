@@ -1,0 +1,28 @@
+.button {
+  margin: 1rem;
+  font-family: 'Sahel';
+}
+
+.buttonWrapper {
+  text-align: center;
+}
+
+.title {
+  margin: 0.4rem;
+}
+
+.emoji {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  color: rgb(3, 68, 112);
+  /* border: 1px solid rgb(0, 116, 194); */
+  border-radius: 15rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.latestKuda {
+  padding: 1rem;
+  font-family: 'Sahel';
+}

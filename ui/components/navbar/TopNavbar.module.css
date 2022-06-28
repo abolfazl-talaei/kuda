@@ -1,0 +1,22 @@
+.navSelected {
+  background: linear-gradient(rgb(236, 213, 3) 0 0) left / 100% var(--d, 0%)
+    no-repeat;
+  transition: 0.5s;
+  cursor: pointer;
+}
+.navSelected:hover {
+  --d: 100%;
+  color: #fff;
+}
+
+.breadcrumb {
+  background-color: rgb(218, 218, 218);
+  padding: 0.5rem;
+  border-radius: 12rem;
+  font-family: 'Sahel';
+}
+
+.environment {
+  margin: 0.5rem;
+  color: rgb(35, 92, 168);
+}

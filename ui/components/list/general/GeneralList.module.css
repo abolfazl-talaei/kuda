@@ -1,0 +1,33 @@
+.selected {
+  opacity: 1;
+  transform: scale(1.01);
+  margin-bottom: -1.8rem;
+  margin-top: -1.8rem;
+  transition-timing-function: ease-in-out;
+  transition: all 100ms linear;
+  border-width: 0.13rem;
+  z-index: 100;
+}
+
+.normal {
+  opacity: 1;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  transition-timing-function: ease-in-out;
+  transition: all 100ms linear;
+  z-index: 100;
+}
+
+.nonSelected {
+  opacity: 0.3;
+  margin: 0.5rem;
+  transition-timing-function: ease-in-out;
+  transition: all 100ms linear;
+  filter: blur(1px);
+}
+
+.listItemHeader {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Sahel';
+}

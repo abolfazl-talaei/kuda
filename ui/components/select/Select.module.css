@@ -1,0 +1,16 @@
+.title {
+  margin: 0.4rem;
+  font-family: 'Sahel';
+}
+
+.option {
+  font-family: 'Sahel';
+}
+
+.select {
+  font-family: 'Sahel';
+  width: 100%;
+  padding: 0.2rem;
+  border-radius: 0.25rem;
+  border: 1px solid #ced4da;
+}
