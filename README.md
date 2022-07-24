@@ -11,6 +11,28 @@ A simple application for your organization to better explain your feelings about
 3. [Maven build tool](https://maven.apache.org/)
 4. Open ports: 80 (Frontend) and 8080 (Backend)
 
+## Features
+
+### Organization:
+ - Create organization for your department to have a box for using for creating kudas
+
+### Kuda
+ - Create kudas for users anonymously (Thanks and Feedbacks)
+ - List of kudas
+ - List of winners in each duration
+ - Mark kudas as read kuda for considering as a point for that user
+
+### User
+ - Create new user
+ - List of users
+
+### Settings and management
+ - Change password for Admin, Reader and Default user
+ - Multiple language is supported (current languages are English and Persian)
+ - Change status of kudas to show/hide
+ - Settings for default show status for new kudas (Moderation)
+ - Settings for changing current duration
+
 ## Installation
 
 ### 1. Initialize database
